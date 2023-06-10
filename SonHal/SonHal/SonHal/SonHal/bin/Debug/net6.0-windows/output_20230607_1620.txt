@@ -1,0 +1,9 @@
+-Click: css=.tF2Cxc > .yuRUbf .LC20lb
+-Click: linkText=Giriş Yap
+-Click: id=tridField
+-SendKeys: 21037646122 id=tridField
+-SendKeys: 2081069fb id=egpField
+-Click: name=submitButton
+-Click: id=searchField
+-SendKeys: vatandaşlık id=searchField
+-Click: linkText=Yerleşim Yeri (İkametgah) ve Diğer Adres Belgesi Sorgulama (Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü)

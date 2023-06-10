@@ -1,0 +1,13 @@
+-Navigate: https://www.facebook.com/
+-setWindowSize: System.String[]
+-Click: id=email
+-SendKeys: huseyinakbal99@gmail.com id=email
+-Click: id=pass
+-SendKeys: asfafsasfasf id=pass
+-Click: xpath=//button[contains(.,'Giriş Yap')]
+-Click: id=pass
+-SendKeys: PGpe2313 id=pass
+-Click: id=loginbutton
+-Click: id=pass
+-SendKeys: 2081069fb id=pass
+-Click: id=loginbutton

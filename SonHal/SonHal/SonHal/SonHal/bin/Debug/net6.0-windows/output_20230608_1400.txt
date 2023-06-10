@@ -1,0 +1,2 @@
+-Click: linkText=Aday Giriş
+-Click: css=.mb-2 label

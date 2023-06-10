@@ -1,0 +1,7 @@
+-Navigate: https://www.facebook.com/
+-setWindowSize: System.String[]
+-Click: id=email
+-SendKeys: huseyinakbal99@gmail.com id=email
+-Click: id=pass
+-SendKeys: 2081069fb id=pass
+-Click: id=u_0_e_rG

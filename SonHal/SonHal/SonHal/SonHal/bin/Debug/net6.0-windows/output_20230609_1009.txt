@@ -1,0 +1,4 @@
+-Click: id=email
+-SendKeys: huseyinakbal99@gmail.com id=email
+-Click: id=pass
+-SendKeys: 2081069fb id=pass

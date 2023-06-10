@@ -1,0 +1,2 @@
+-Navigate: http://localhost:8080/login.html
+-SetWindowSize: 1278x735

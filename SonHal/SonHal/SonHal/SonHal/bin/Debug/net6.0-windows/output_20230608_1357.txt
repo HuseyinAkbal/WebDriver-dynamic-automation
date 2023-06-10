@@ -1,0 +1,2 @@
+-Navigate: https://www.kariyer.net/
+-setWindowSize: System.String[]

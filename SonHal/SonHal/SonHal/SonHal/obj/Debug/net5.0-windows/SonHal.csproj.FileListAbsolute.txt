@@ -1,0 +1,7 @@
+C:\Users\huseyin.akbal\Downloads\SonHal\SonHal\SonHal\obj\Debug\net5.0-windows\SonHal.csproj.AssemblyReference.cache
+C:\Users\huseyin.akbal\Downloads\SonHal\SonHal\SonHal\obj\Debug\net5.0-windows\SonHal.Form1.resources
+C:\Users\huseyin.akbal\Downloads\SonHal\SonHal\SonHal\obj\Debug\net5.0-windows\SonHal.csproj.GenerateResource.cache
+C:\Users\huseyin.akbal\Downloads\SonHal\SonHal\SonHal\obj\Debug\net5.0-windows\SonHal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huseyin.akbal\Downloads\SonHal\SonHal\SonHal\obj\Debug\net5.0-windows\SonHal.AssemblyInfoInputs.cache
+C:\Users\huseyin.akbal\Downloads\SonHal\SonHal\SonHal\obj\Debug\net5.0-windows\SonHal.AssemblyInfo.cs
+C:\Users\huseyin.akbal\Downloads\SonHal\SonHal\SonHal\obj\Debug\net5.0-windows\SonHal.csproj.CoreCompileInputs.cache

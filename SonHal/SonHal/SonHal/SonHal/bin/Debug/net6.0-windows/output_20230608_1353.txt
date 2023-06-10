@@ -1,0 +1,8 @@
+-Navigate: https://eksisozluk1923.com/
+-setWindowSize: System.String[]
+-Click: id=search-textbox
+-SendKeys: asmfmasgmasmgamsgm id=search-textbox
+-Click: css=button:nth-child(3)
+-Click: linkText=ekşi sözlük
+-Click: id=search-textbox
+-SendKeys: amsmamsfamsmasmf id=search-textbox

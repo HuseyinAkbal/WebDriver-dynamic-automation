@@ -1,0 +1,8 @@
+-Navigate: https://www.kariyer.net/
+-setWindowSize: System.String[]
+-Click: linkText=Aday Giriş
+-Click: css=.mb-2 label
+-SendKeys: akbal.huseyin@hotmail.com css=*[data-test="username-input"]
+-Click: css=*[data-test="password-input"]
+-SendKeys: Huseyinakbal.17 css=*[data-test="password-input"]
+-Click: css=.login-button > span

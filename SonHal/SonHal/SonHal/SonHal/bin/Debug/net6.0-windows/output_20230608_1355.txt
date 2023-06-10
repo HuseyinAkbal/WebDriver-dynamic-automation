@@ -1,0 +1,4 @@
+-Navigate: https://www.kariyer.net/
+-setWindowSize: System.String[]
+-Click: linkText=Aday Giriş
+-Click: css=.mb-2 label

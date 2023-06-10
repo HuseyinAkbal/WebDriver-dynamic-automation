@@ -1,0 +1,7 @@
+-Navigate: http://localhost:8080/login.html
+-setWindowSize: System.String[]
+-Click: id=input1
+-SendKeys: İD id=input1
+-Click: id=input2
+-SendKeys: ŞİFRE id=input2
+-Click: id=submit-btn
